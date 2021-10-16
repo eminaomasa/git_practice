@@ -1,4 +1,4 @@
-Git Practice for branching and merging 
+Second Trial ad 11:45AM on Sat Oct 16 
 
 how are you? 
 
@@ -7,3 +7,4 @@ Test
 Test 
 Test
 # git_practicek
+# git_practice
